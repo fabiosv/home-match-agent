@@ -16,7 +16,7 @@ class VectorStore:
         self.db = self.load_data(json_file)
 
     def load_data(self, json_file):
-        """Load data from a CSV file and create a Chroma vector store."""
+        """Load data from a JSON file and create a Chroma vector store."""
         loader = JSONLoader(file_path=json_file, jq_schema=".[]", text_content=False)
         docs = loader.load()
         splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
