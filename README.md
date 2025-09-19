@@ -13,6 +13,35 @@ HomeMatch revolutionizes how clients interact with real estate listings by creat
 5. Personalizes property descriptions to highlight aspects most relevant to the buyer
 6. Presents enhanced listings to the buyer
 
+## Application Architecture
+
+### Key Components
+
+- **LLM Provider**: Handles interactions with the language model (OpenAI or LM Studio)
+- **Vector Store**: Manages the vector database for semantic search (ChromaDB)
+- **Real Estate Listings**: JSON data containing property information
+- **Buyer Preference Collection**: Interface for gathering buyer requirements
+- **Semantic Search**: Matches buyer preferences to property listings
+- **Description Enhancement**: Personalizes property descriptions based on preferences
+
+### Directory Structure
+
+```
+root/
+├── HomeMatch.ipynb       # Main application notebook
+├── README.md             # This documentation
+├── pyproject.toml        # Project dependencies
+├── real_estate_listings.json  # Generated property listings
+└── src/
+    ├── configs.py        # Configuration and environment variables
+    ├── provider.py       # LLM provider implementation
+    └── db/
+        ├── chroma_db.py  # Vector database implementation
+        ├── generate_sample_data.py  # Data generation utilities
+        └── models/
+            └── real_estate_listing.py  # Data models
+```
+
 ## Prerequisites
 
 ### Python Environment
@@ -114,35 +143,6 @@ The notebook follows these steps:
 The application can run in two modes:
 - **Test Mode**: Uses predefined buyer preferences for quick testing
 - **Interactive Mode**: Prompts the user to input their preferences in real-time
-
-## Application Architecture
-
-### Key Components
-
-- **LLM Provider**: Handles interactions with the language model (OpenAI or LM Studio)
-- **Vector Store**: Manages the vector database for semantic search (ChromaDB)
-- **Real Estate Listings**: JSON data containing property information
-- **Buyer Preference Collection**: Interface for gathering buyer requirements
-- **Semantic Search**: Matches buyer preferences to property listings
-- **Description Enhancement**: Personalizes property descriptions based on preferences
-
-### Directory Structure
-
-```
-root/
-├── HomeMatch.ipynb       # Main application notebook
-├── README.md             # This documentation
-├── pyproject.toml        # Project dependencies
-├── real_estate_listings.json  # Generated property listings
-└── src/
-    ├── configs.py        # Configuration and environment variables
-    ├── provider.py       # LLM provider implementation
-    └── db/
-        ├── chroma_db.py  # Vector database implementation
-        ├── generate_sample_data.py  # Data generation utilities
-        └── models/
-            └── real_estate_listing.py  # Data models
-```
 
 ## Troubleshooting
 
