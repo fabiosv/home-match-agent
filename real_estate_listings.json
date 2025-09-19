@@ -1,0 +1,344 @@
+[
+    {
+        "neighborhood": "Willow Creek",
+        "price": "$750,000",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "house_size": "2,500 sqft",
+        "description": "Discover modern elegance in this stunning 4-bedroom, 3-bathroom home in the desirable Willow Creek neighborhood. The spacious interior features high ceilings, a gourmet kitchen with granite countertops, and a luxurious master suite. Enjoy the private backyard oasis with a pool and outdoor kitchen, perfect for entertaining guests. Experience luxury living at its finest in Willow Creek.",
+        "neighborhood_description": "Willow Creek is known for its upscale living, tree-lined streets, and top-rated schools. Residents enjoy easy access to shopping centers, parks, and fine dining restaurants. Explore the nearby Willow Creek Country Club for golf and social events."
+    },
+    {
+        "neighborhood": "Lakeview Heights",
+        "price": "$600,000",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "house_size": "1,800 sqft",
+        "description": "Welcome to this charming 3-bedroom, 2-bathroom home in the serene Lakeview Heights neighborhood. The cozy interior features hardwood floors, a fireplace, and a renovated kitchen with stainless steel appliances. Relax in the landscaped backyard with a pergola and fire pit. Enjoy peaceful living in Lakeview Heights.",
+        "neighborhood_description": "Lakeview Heights offers a tranquil setting with beautiful lake views and access to hiking trails. Residents can enjoy picnics by the lake or visit the local farmers' market for fresh produce. Close proximity to schools and recreational facilities make Lakeview Heights a desirable location."
+    },
+    {
+        "neighborhood": "Sunset Ridge",
+        "price": "$900,000",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "house_size": "3,200 sqft",
+        "description": "Luxury awaits in this exquisite 5-bedroom, 4-bathroom home in the prestigious Sunset Ridge neighborhood. The grand entrance leads to a formal living room, chef's kitchen, and a private home office. Unwind in the master suite with a spa-like bathroom and walk-in closet. Entertain in style in the landscaped backyard with a pool and outdoor kitchen.",
+        "neighborhood_description": "Sunset Ridge is known for its upscale homes, scenic views, and exclusive amenities. Residents can enjoy hiking trails, community events, and upscale shopping within the neighborhood. Experience luxury living in Sunset Ridge."
+    },
+    {
+        "neighborhood": "Pinecrest Estates",
+        "price": "$680,000",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "house_size": "2,300 sqft",
+        "description": "Step into this beautifully appointed 4-bedroom, 3-bathroom home in the sought-after Pinecrest Estates neighborhood. The interior features a spacious layout, designer finishes, and a gourmet kitchen with quartz countertops. Relax in the private backyard with a covered patio and lush landscaping. Experience comfort and elegance in Pinecrest Estates.",
+        "neighborhood_description": "Pinecrest Estates offers a peaceful retreat with mature trees, walking trails, and a sense of community. Residents can enjoy nearby parks, golf courses, and shopping centers. Experience the perfect blend of convenience and tranquility in Pinecrest Estates."
+    },
+    {
+        "neighborhood": "Riverfront Plaza",
+        "price": "$500,000",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "house_size": "1,500 sqft",
+        "description": "Live in luxury in this 2-bedroom, 2-bathroom condo in the vibrant Riverfront Plaza neighborhood. The open floor plan features floor-to-ceiling windows, a modern kitchen with stainless steel appliances, and a spacious master suite. Enjoy stunning views of the river from the private balcony. Experience urban living at its best in Riverfront Plaza.",
+        "neighborhood_description": "Riverfront Plaza offers a dynamic lifestyle with waterfront dining, entertainment venues, and cultural attractions. Residents can walk to art galleries, theaters, and trendy boutiques. With easy access to public transportation, Riverfront Plaza is the perfect blend of city living and waterfront views."
+    },
+    {
+        "neighborhood": "Hillside Park",
+        "price": "$720,000",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "house_size": "1,900 sqft",
+        "description": "Nestled in the picturesque Hillside Park neighborhood, this 3-bedroom, 2-bathroom home exudes charm and character. The interior features hardwood floors, a cozy fireplace, and a sunny breakfast nook. Relax in the landscaped backyard with a deck and garden beds. Enjoy peaceful living in Hillside Park.",
+        "neighborhood_description": "Hillside Park offers a tranquil setting with tree-lined streets, parks, and local cafes. Residents can take leisurely walks through the neighborhood or explore nearby hiking trails. With easy access to schools and community amenities, Hillside Park is a wonderful place to call home."
+    },
+    {
+        "neighborhood": "Harborview Heights",
+        "price": "$820,000",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "house_size": "2,600 sqft",
+        "description": "Discover coastal living in this 4-bedroom, 3-bathroom home in the desirable Harborview Heights neighborhood. The spacious interior features vaulted ceilings, a gourmet kitchen with granite countertops, and a luxurious master suite. Relax in the backyard oasis with a patio and ocean views. Experience luxury by the sea in Harborview Heights.",
+        "neighborhood_description": "Harborview Heights offers a coastal lifestyle with marinas, beaches, and waterfront dining. Residents can enjoy boating, fishing, and beachcombing right at their doorstep. With access to top-rated schools and recreational activities, Harborview Heights is a sought-after neighborhood."
+    },
+    {
+        "neighborhood": "Mountain View Estates",
+        "price": "$950,000",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "house_size": "3,500 sqft",
+        "description": "Embrace luxury in this 5-bedroom, 4-bathroom estate in the exclusive Mountain View Estates neighborhood. The grand foyer leads to a formal living room, chef's kitchen, and a private home theater. Retreat to the master suite with a spa-like bathroom and walk-in closet. Entertain in the expansive backyard with a pool and outdoor kitchen.",
+        "neighborhood_description": "Mountain View Estates offers privacy, security, and breathtaking mountain views. Residents can enjoy hiking trails, private parks, and a sense of community. Experience upscale living in Mountain View Estates."
+    },
+    {
+        "neighborhood": "Maplewood Gardens",
+        "price": "$670,000",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "house_size": "2,200 sqft",
+        "description": "Welcome to this beautifully renovated 4-bedroom, 3-bathroom home in the serene Maplewood Gardens neighborhood. The interior features an open floor plan, hardwood floors, and a gourmet kitchen with quartz countertops. Relax in the landscaped backyard with a deck and garden beds. Enjoy modern living in Maplewood Gardens.",
+        "neighborhood_description": "Maplewood Gardens offers a peaceful environment with tree-lined streets, parks, and local shops. Residents can explore nearby nature reserves, bike paths, and community events. With convenient access to schools and amenities, Maplewood Gardens is a great place to live."
+    },
+    {
+        "neighborhood": "Lakeside Retreat",
+        "price": "$780,000",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "house_size": "2,000 sqft",
+        "description": "Escape to this 3-bedroom, 2-bathroom retreat in the tranquil Lakeside Retreat neighborhood. The home features a bright and airy interior, a modern kitchen with stainless steel appliances, and a cozy family room with a fireplace. Relax in the backyard oasis with a deck and views of the lake. Experience peaceful living in Lakeside Retreat.",
+        "neighborhood_description": "Lakeside Retreat offers a serene setting with lakefront views, walking trails, and community events. Residents can enjoy fishing, kayaking, and picnics by the lake. With easy access to shopping and dining options, Lakeside Retreat is a hidden gem."
+    },
+    {
+        "neighborhood": "Meadowbrook Heights",
+        "price": "$690,000",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "house_size": "2,300 sqft",
+        "description": "Discover comfort and style in this 4-bedroom, 3-bathroom home in the desirable Meadowbrook Heights neighborhood. The interior boasts an open floor plan, hardwood floors, and a chef's kitchen with granite countertops. Relax in the backyard with a patio and lush landscaping. Experience modern living in Meadowbrook Heights.",
+        "neighborhood_description": "Meadowbrook Heights offers a family-friendly environment with parks, schools, and recreational facilities. Residents can enjoy community events, farmers' markets, and local eateries. With convenient access to highways and public transportation, Meadowbrook Heights is a great place to call home."
+    },
+    {
+        "neighborhood": "Oakwood Park",
+        "price": "$730,000",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "house_size": "1,800 sqft",
+        "description": "Welcome to this charming 3-bedroom, 2-bathroom home in the peaceful Oakwood Park neighborhood. The interior features a cozy living room, a renovated kitchen with quartz countertops, and a sunny breakfast nook. Relax in the landscaped backyard with a deck and garden beds. Enjoy tranquil living in Oakwood Park.",
+        "neighborhood_description": "Oakwood Park offers a quiet retreat with mature trees, walking paths, and local parks. Residents can explore nearby nature reserves, playgrounds, and community events. With easy access to schools and amenities, Oakwood Park is a wonderful neighborhood for families."
+    },
+    {
+        "neighborhood": "Sunrise Meadows",
+        "price": "$820,000",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "house_size": "2,500 sqft",
+        "description": "Experience elegance in this 4-bedroom, 3-bathroom home in the prestigious Sunrise Meadows neighborhood. The interior showcases high ceilings, a gourmet kitchen with stainless steel appliances, and a luxurious master suite. Entertain in the landscaped backyard with a patio and fire pit. Live in luxury in Sunrise Meadows.",
+        "neighborhood_description": "Sunrise Meadows offers upscale living with scenic views, top-rated schools, and exclusive amenities. Residents can enjoy community events, fine dining restaurants, and boutique shopping. With easy access to parks and recreational facilities, Sunrise Meadows is a sought-after neighborhood."
+    },
+    {
+        "neighborhood": "Riverside Terrace",
+        "price": "$590,000",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "house_size": "1,700 sqft",
+        "description": "Live by the water in this 3-bedroom, 2-bathroom home in the scenic Riverside Terrace neighborhood. The interior features an open floor plan, hardwood floors, and a modern kitchen with granite countertops. Relax in the backyard with a deck and views of the river. Enjoy waterfront living in Riverside Terrace.",
+        "neighborhood_description": "Riverside Terrace offers a waterfront lifestyle with boating, fishing, and nature trails. Residents can explore nearby marinas, restaurants, and cultural attractions. With easy access to highways and public transportation, Riverside Terrace is a great place to live."
+    },
+    {
+        "neighborhood": "Hillcrest Heights",
+        "price": "$710,000",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "house_size": "1,900 sqft",
+        "description": "Discover modern living in this 3-bedroom, 2-bathroom home in the vibrant Hillcrest Heights neighborhood. The interior boasts an open floor plan, hardwood floors, and a chef's kitchen with quartz countertops. Relax in the backyard oasis with a patio and garden beds. Experience urban living at its best in Hillcrest Heights.",
+        "neighborhood_description": "Hillcrest Heights offers a dynamic lifestyle with trendy cafes, art galleries, and cultural events. Residents can walk to local markets, theaters, and fitness studios. With easy access to public transportation, Hillcrest Heights is a vibrant neighborhood for city living."
+    },
+    {
+        "neighborhood": "Green Valley Ranch",
+        "price": "$640,000",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "house_size": "2,100 sqft",
+        "description": "Welcome to this spacious 4-bedroom, 3-bathroom home in the family-friendly Green Valley Ranch neighborhood. The interior features a bright and airy layout, a modern kitchen with stainless steel appliances, and a cozy family room with a fireplace. Relax in the backyard with a patio and garden beds. Enjoy comfortable living in Green Valley Ranch.",
+        "neighborhood_description": "Green Valley Ranch offers a welcoming community with parks, schools, and recreational facilities. Residents can enjoy outdoor activities, community events, and local eateries. With convenient access to highways and shopping centers, Green Valley Ranch is a great neighborhood for families."
+    },
+    {
+        "neighborhood": "Creekside Village",
+        "price": "$770,000",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "house_size": "2,400 sqft",
+        "description": "Step into luxury in this 4-bedroom, 3-bathroom home in the sought-after Creekside Village neighborhood. The interior showcases high ceilings, a gourmet kitchen with quartz countertops, and a luxurious master suite. Entertain in the landscaped backyard with a deck and fire pit. Experience upscale living in Creekside Village.",
+        "neighborhood_description": "Creekside Village offers a tranquil setting with creekside views, walking trails, and a sense of community. Residents can enjoy nearby parks, golf courses, and boutique shopping. With convenient access to schools and amenities, Creekside Village is a desirable neighborhood."
+    },
+    {
+        "neighborhood": "Hilltop Manor",
+        "price": "$680,000",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "house_size": "1,800 sqft",
+        "description": "Discover charm and elegance in this 3-bedroom, 2-bathroom home in the historic Hilltop Manor neighborhood. The interior features original hardwood floors, a cozy living room with a fireplace, and a formal dining room. Relax in the landscaped backyard with a patio and garden beds. Experience timeless living in Hilltop Manor.",
+        "neighborhood_description": "Hilltop Manor offers a classic setting with tree-lined streets, historic homes, and a strong sense of community. Residents can stroll to local cafes, parks, and cultural attractions. With easy access to downtown and major highways, Hilltop Manor is a sought-after neighborhood."
+    },
+    {
+        "neighborhood": "Riverview Estates",
+        "price": "$740,000",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "house_size": "2,300 sqft",
+        "description": "Live in luxury in this 4-bedroom, 3-bathroom home in the prestigious Riverview Estates neighborhood. The interior boasts high ceilings, a gourmet kitchen with granite countertops, and a luxurious master suite. Entertain in the landscaped backyard with a pool and outdoor kitchen. Experience upscale living in Riverview Estates.",
+        "neighborhood_description": "Riverview Estates offers waterfront living with river views, marinas, and waterfront dining. Residents can enjoy boating, fishing, and community events right at their doorstep. With access to top-rated schools and recreational activities, Riverview Estates is a sought-after neighborhood."
+    },
+    {
+        "neighborhood": "Willow Creek",
+        "price": "$750,000",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "house_size": "2,500 sqft",
+        "description": "Discover the beauty of this spacious 4-bedroom, 3-bathroom home in Willow Creek. The property features a modern kitchen with stainless steel appliances, a cozy fireplace in the living room, and a large backyard perfect for entertaining. With high ceilings and large windows, natural light fills every room. Enjoy the peaceful surroundings of Willow Creek in this inviting home.",
+        "neighborhood_description": "Willow Creek is known for its tree-lined streets, family-friendly atmosphere, and top-rated schools. Residents can explore the nearby Willow Creek Park or take a short drive to the bustling town center for shopping and dining."
+    },
+    {
+        "neighborhood": "Lakeview Heights",
+        "price": "$950,000",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "house_size": "3,200 sqft",
+        "description": "Step into luxury with this stunning 5-bedroom, 4-bathroom home in Lakeview Heights. The property offers a gourmet kitchen, a spacious master suite with a walk-in closet, and a private backyard oasis with a pool and spa. Entertain guests in the elegant dining room or relax in the cozy family room with a fireplace. Experience upscale living in Lakeview Heights.",
+        "neighborhood_description": "Lakeview Heights is an upscale neighborhood with panoramic views of the lake and surrounding mountains. Enjoy easy access to hiking trails, wineries, and fine dining establishments. The community offers a peaceful retreat from the hustle and bustle of city life."
+    },
+    {
+        "neighborhood": "Sunset Valley",
+        "price": "$600,000",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "house_size": "1,800 sqft",
+        "description": "Welcome to this charming 3-bedroom, 2-bathroom home in the desirable Sunset Valley neighborhood. The house features a bright and airy living room, a newly renovated kitchen with quartz countertops, and a private backyard with a deck for outdoor gatherings. With hardwood floors throughout, this home exudes warmth and comfort.",
+        "neighborhood_description": "Sunset Valley is a family-friendly neighborhood with tree-lined streets and well-maintained parks. Residents can enjoy local cafes, farmers' markets, and community events. Experience the best of suburban living in Sunset Valley."
+    },
+    {
+        "neighborhood": "Pinecrest Estates",
+        "price": "$1,200,000",
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "house_size": "3,500 sqft",
+        "description": "Luxury awaits in this exquisite 5-bedroom, 3-bathroom home in Pinecrest Estates. The property boasts a grand foyer, a chef's kitchen with high-end appliances, and a master suite with a spa-like bathroom. Entertain in style in the formal dining room or relax in the backyard oasis with a fire pit and lush landscaping.",
+        "neighborhood_description": "Pinecrest Estates is an exclusive gated community known for its privacy and security. Residents enjoy access to private parks, tennis courts, and walking trails. Experience resort-style living in the prestigious Pinecrest Estates."
+    },
+    {
+        "neighborhood": "Maple Grove",
+        "price": "$850,000",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "house_size": "2,700 sqft",
+        "description": "This elegant 4-bedroom, 3-bathroom home in Maple Grove offers a blend of traditional charm and modern amenities. The property features a gourmet kitchen, a formal dining room, and a master suite with a soaking tub. Relax in the landscaped backyard or entertain guests in the spacious living area. Experience luxurious living in Maple Grove.",
+        "neighborhood_description": "Maple Grove is a sought-after neighborhood with tree-lined streets and well-maintained parks. Residents can enjoy local boutiques, cafes, and cultural events. With top-rated schools and a strong sense of community, Maple Grove is the perfect place to call home."
+    },
+    {
+        "neighborhood": "Riverfront Estates",
+        "price": "$1,500,000",
+        "bedrooms": 6,
+        "bathrooms": 4,
+        "house_size": "4,000 sqft",
+        "description": "Live in luxury in this stunning 6-bedroom, 4-bathroom home in Riverfront Estates. The property features a grand entrance, a state-of-the-art kitchen, and a private dock on the river. Relax in the spacious family room or unwind in the backyard oasis with a pool and waterfall. Experience resort-style living at its finest.",
+        "neighborhood_description": "Riverfront Estates is an exclusive waterfront community with access to boating, fishing, and water sports. Residents can enjoy picturesque views of the river and lush greenery. With upscale amenities and a serene atmosphere, Riverfront Estates offers a tranquil escape from city life."
+    },
+    {
+        "neighborhood": "Oakwood Hills",
+        "price": "$700,000",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "house_size": "2,100 sqft",
+        "description": "Welcome home to this charming 3-bedroom, 2-bathroom house in the scenic Oakwood Hills neighborhood. The property features a cozy living room with a fireplace, a sunlit breakfast nook, and a landscaped backyard with a patio. With hardwood floors and crown molding, this home exudes classic elegance.",
+        "neighborhood_description": "Oakwood Hills is a picturesque neighborhood known for its wooded surroundings and tranquil ambiance. Residents can explore hiking trails, parks, and local shops. With easy access to major highways, commuting to nearby cities is convenient."
+    },
+    {
+        "neighborhood": "Cedar Ridge",
+        "price": "$780,000",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "house_size": "2,400 sqft",
+        "description": "Discover the beauty of this 4-bedroom, 3-bathroom home in the desirable Cedar Ridge neighborhood. The property offers an open-concept floor plan, a gourmet kitchen with granite countertops, and a spacious master suite. Relax on the covered patio or enjoy the landscaped backyard with a fire pit. Experience modern living in Cedar Ridge.",
+        "neighborhood_description": "Cedar Ridge is a vibrant community with tree-lined streets and well-maintained parks. Residents can enjoy local eateries, shopping centers, and community events. With easy access to highways and public transportation, Cedar Ridge offers convenience and connectivity."
+    },
+    {
+        "neighborhood": "Meadowbrook Heights",
+        "price": "$690,000",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "house_size": "1,900 sqft",
+        "description": "Welcome to this inviting 3-bedroom, 2-bathroom home in the peaceful Meadowbrook Heights neighborhood. The house features a bright and spacious living room, a remodeled kitchen with quartz countertops, and a private backyard with a deck. With new flooring and fresh paint, this home is move-in ready.",
+        "neighborhood_description": "Meadowbrook Heights is a quiet neighborhood with parks, walking trails, and community events. Residents can enjoy local cafes, farmers' markets, and recreational facilities. With top-rated schools and a strong sense of community, Meadowbrook Heights is the ideal place to settle down."
+    },
+    {
+        "neighborhood": "Harbor View",
+        "price": "$1,100,000",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "house_size": "3,300 sqft",
+        "description": "Step into luxury with this exquisite 5-bedroom, 4-bathroom home in the prestigious Harbor View neighborhood. The property boasts a grand foyer, a chef's kitchen with top-of-the-line appliances, and a master suite with a private balcony. Entertain guests in the formal dining room or relax in the landscaped backyard with a pool and spa.",
+        "neighborhood_description": "Harbor View is an upscale waterfront community with panoramic views of the harbor and marina. Residents can enjoy boating, water sports, and seaside dining. With exclusive amenities and a prime location, Harbor View offers a luxurious coastal lifestyle."
+    },
+    {
+        "neighborhood": "Mountain Ridge",
+        "price": "$820,000",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "house_size": "2,600 sqft",
+        "description": "Embrace mountain living in this 4-bedroom, 3-bathroom home in the scenic Mountain Ridge neighborhood. The property features a stone fireplace, a gourmet kitchen with granite countertops, and a master suite with a spa-like bathroom. Relax on the covered porch or hike the nearby trails. Experience the beauty of Mountain Ridge.",
+        "neighborhood_description": "Mountain Ridge is a nature lover's paradise with hiking trails, wildlife, and breathtaking views. Residents can explore local vineyards, orchards, and outdoor markets. With a strong sense of community and access to outdoor activities, Mountain Ridge is the perfect escape from city life."
+    },
+    {
+        "neighborhood": "Lakeside Manor",
+        "price": "$880,000",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "house_size": "2,800 sqft",
+        "description": "Welcome to Lakeside Manor, where luxury meets comfort in this 4-bedroom, 3-bathroom home. The property features a gourmet kitchen, a formal dining room, and a master suite with a walk-in closet. Relax in the landscaped backyard or unwind in the spacious living room with a fireplace. Experience upscale living in Lakeside Manor.",
+        "neighborhood_description": "Lakeside Manor is an exclusive lakeside community with private access to the water and marina. Residents can enjoy boating, fishing, and lakeside dining. With upscale amenities and a serene atmosphere, Lakeside Manor offers a tranquil retreat from city life."
+    },
+    {
+        "neighborhood": "Hillside Terrace",
+        "price": "$720,000",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "house_size": "2,000 sqft",
+        "description": "Discover the charm of this 3-bedroom, 2-bathroom home in the scenic Hillside Terrace neighborhood. The house features a cozy living room with a fireplace, a sunlit breakfast nook, and a landscaped backyard with a deck. With hardwood floors and crown molding, this home exudes classic elegance.",
+        "neighborhood_description": "Hillside Terrace is a peaceful neighborhood with panoramic views of the hills and valleys. Residents can explore hiking trails, parks, and local shops. With easy access to major highways, commuting to nearby cities is convenient."
+    },
+    {
+        "neighborhood": "Grove Park",
+        "price": "$670,000",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "house_size": "1,850 sqft",
+        "description": "Welcome to this beautiful 3-bedroom, 2-bathroom home in the desirable Grove Park neighborhood. The property offers a spacious living room, a modern kitchen with quartz countertops, and a private backyard with a patio. With new flooring and fresh paint, this home is move-in ready.",
+        "neighborhood_description": "Grove Park is a family-friendly neighborhood with tree-lined streets and well-maintained parks. Residents can enjoy local eateries, shopping centers, and community events. With top-rated schools and a strong sense of community, Grove Park is the perfect place to call home."
+    },
+    {
+        "neighborhood": "Riverside Glen",
+        "price": "$740,000",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "house_size": "2,300 sqft",
+        "description": "Live in luxury in this spacious 4-bedroom, 3-bathroom home in the scenic Riverside Glen neighborhood. The property features a gourmet kitchen, a formal dining room, and a master suite with a walk-in closet. Relax in the landscaped backyard or entertain guests in the elegant living room. Experience upscale living in Riverside Glen.",
+        "neighborhood_description": "Riverside Glen is a picturesque neighborhood with riverfront views and lush greenery. Residents can enjoy walking trails, parks, and local cafes. With easy access to highways and public transportation, Riverside Glen offers convenience and serenity."
+    },
+    {
+        "neighborhood": "Forest Hills",
+        "price": "$790,000",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "house_size": "2,500 sqft",
+        "description": "Step into luxury with this elegant 4-bedroom, 3-bathroom home in the exclusive Forest Hills neighborhood. The property offers a gourmet kitchen, a formal dining room, and a master suite with a spa-like bathroom. Entertain guests in the landscaped backyard or relax in the cozy family room with a fireplace.",
+        "neighborhood_description": "Forest Hills is an upscale neighborhood with tree-lined streets and exclusive amenities. Residents can enjoy local boutiques, cafes, and cultural events. With top-rated schools and a strong sense of community, Forest Hills is the perfect place to settle down."
+    },
+    {
+        "neighborhood": "Creek Side",
+        "price": "$710,000",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "house_size": "2,050 sqft",
+        "description": "Welcome to this charming 3-bedroom, 2-bathroom home in the peaceful Creek Side neighborhood. The house features a bright and spacious living room, a remodeled kitchen with stainless steel appliances, and a private backyard with a deck. With new flooring and fresh paint, this home is move-in ready.",
+        "neighborhood_description": "Creek Side is a quiet neighborhood with tree-lined streets and well-maintained parks. Residents can enjoy local cafes, farmers' markets, and community events. With easy access to major highways, commuting to nearby cities is convenient."
+    },
+    {
+        "neighborhood": "Valley View",
+        "price": "$830,000",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "house_size": "2,700 sqft",
+        "description": "Discover the beauty of this 4-bedroom, 3-bathroom home in the desirable Valley View neighborhood. The property offers an open-concept floor plan, a gourmet kitchen with granite countertops, and a spacious master suite. Relax on the covered patio or enjoy the landscaped backyard with a fire pit. Experience modern living in Valley View.",
+        "neighborhood_description": "Valley View is a vibrant community with tree-lined streets and well-maintained parks. Residents can enjoy local eateries, shopping centers, and community events. With easy access to highways and public transportation, Valley View offers convenience and connectivity."
+    },
+    {
+        "neighborhood": "Meadow Lane",
+        "price": "$680,000",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "house_size": "1,950 sqft",
+        "description": "Step into this lovely 3-bedroom, 2-bathroom home located in the serene Meadow Lane neighborhood. The property offers a cozy living room, a modern kitchen with stainless steel appliances, and a private backyard with a deck. With new flooring and fresh paint, this home is move-in ready.",
+        "neighborhood_description": "Meadow Lane is a family-friendly neighborhood with parks, walking trails, and community gatherings. Residents can enjoy local cafes, farmers' markets, and recreational facilities. With top-rated schools and a strong sense of community, Meadow Lane is the perfect place to call home."
+    }
+]

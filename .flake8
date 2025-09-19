@@ -1,0 +1,5 @@
+# set max line length to 120 characters
+[flake8]
+max-line-length = 120
+extend-ignore = E203, W503
+exclude = .git,__pycache__,old,build,dist,venv

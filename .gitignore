@@ -1,0 +1,5 @@
+data
+gpt-lora
+.DS_Store
+__pycache__
+*.pyc

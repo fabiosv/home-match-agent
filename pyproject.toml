@@ -1,0 +1,29 @@
+[project]
+name = "homematch-ai"
+version = "0.1.0"
+description = "HomeMatch is an AI Agent to assist customer to find their perfect houses"
+authors = [
+    {name = "fabio.valonga@gmail.com"}
+]
+readme = "README.md"
+requires-python = "~3.12"
+dependencies = [
+    "langchain (>=0.3.27,<0.4.0)",
+    "openai (>=1.107.3,<2.0.0)",
+    "pydantic (>=2.11.9,<3.0.0)",
+    "pytest (>=8.4.2,<9.0.0)",
+    "sentence-transformers (>=5.1.0,<6.0.0)",
+    "transformers (>=4.56.1,<5.0.0)",
+    "chromadb (>=1.1.0,<2.0.0)",
+    "tiktoken (>=0.11.0,<0.12.0)",
+    "jupyter (>=1.1.1,<2.0.0)",
+    "langchain-community>=0.3.29",
+    "lancedb>=0.25.0",
+    "pandas>=2.3.2",
+    "jq>=1.10.0",
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
